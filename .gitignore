@@ -1,0 +1,5 @@
+Rawdata/
+DATA/
+outputs/
+__pycache__/
+*.csv
