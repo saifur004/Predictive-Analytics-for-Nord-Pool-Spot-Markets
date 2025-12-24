@@ -390,5 +390,5 @@ Data provided by [Fingrid Oyj](https://www.fingrid.fi/) under their open data po
 - 🎓 Institution: Centria University of Applied Sciences
 - 📚 Program: Information Technology
 - 📧 Email: Saifurrahman6448@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/saifur-rahman-4a227323b)
+- 💼 LinkedIn: [linkedin.com/in/saifur-rahman-4a227323b](https://www.linkedin.com/in/saifur-rahman-4a227323b)
 
