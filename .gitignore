@@ -1,5 +1,4 @@
 Rawdata/
 DATA/
-outputs/
-__pycache__/
+pycache__/
 *.csv

@@ -1,0 +1,36 @@
+{
+  "logistic_regression": {
+    "model": "logistic_regression",
+    "accuracy": 0.8005129666571673,
+    "precision": 0.38791423001949316,
+    "recall": 0.3401709401709402,
+    "f1": 0.36247723132969034,
+    "confusion_matrix": [
+      [
+        2610,
+        314
+      ],
+      [
+        386,
+        199
+      ]
+    ]
+  },
+  "decision_tree": {
+    "model": "decision_tree",
+    "accuracy": 0.7948133371330863,
+    "precision": 0.3880597014925373,
+    "recall": 0.4,
+    "f1": 0.3939393939393939,
+    "confusion_matrix": [
+      [
+        2555,
+        369
+      ],
+      [
+        351,
+        234
+      ]
+    ]
+  }
+}

@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Data Source](https://img.shields.io/badge/Data-Fingrid-orange.svg)](https://www.fingrid.fi/)
 
-*Master's Thesis Project | Machine Learning for Energy Markets*
+*Bachelor Thesis Project | Machine Learning for Energy Markets*
 
 </div>
 
@@ -389,40 +389,5 @@ Data provided by [Fingrid Oyj](https://www.fingrid.fi/) under their open data po
 **Saifur Rahman**
 - 🎓 Institution: Centria University of Applied Sciences
 - 📚 Program: Information Technology
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
-**Thesis Information**:
-- 📅 Completion: [Month Year]
-- 👨‍🏫 Supervisor: Henry Paananen
-- 🏛️ Department: Information Technology
-
----
-
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@mastersthesis{rahman2024nordpool,
-  title={Predictive Analytics for Nord Pool Spot Markets: A Binary Classification Approach to Electricity Price Volatility in Finland},
-  author={Saifur Rahman},
-  year={2024},
-  school={Centria University of Applied Sciences},
-  type={Bachelor's Thesis},
-  address={Kokkola, Finland}
-}
-```
-
----
-
-<div align="center">
-
-**⚡ Made for the Finnish Energy Market ⚡**
-
-*If you find this project helpful, please consider giving it a ⭐*
-
-[Report Bug](https://github.com/yourusername/repo/issues) · [Request Feature](https://github.com/yourusername/repo/issues)
-
-</div>
+- 📧 Email: Saifurrahman6448@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/saifur-rahman-4a227323b)
