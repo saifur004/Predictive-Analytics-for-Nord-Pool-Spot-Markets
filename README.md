@@ -230,7 +230,7 @@ Two interpretable models were compared:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/predictive-analytics-nord-pool.git
+git clone https://github.com/saifur004/Predictive-Analytics-for-Nord-Pool-Spot-Markets
 cd predictive-analytics-nord-pool
 
 # 2. Create virtual environment (recommended)
@@ -391,3 +391,4 @@ Data provided by [Fingrid Oyj](https://www.fingrid.fi/) under their open data po
 - 📚 Program: Information Technology
 - 📧 Email: Saifurrahman6448@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/saifur-rahman-4a227323b)
+
